@@ -10,6 +10,6 @@ class Lesson4 {
     System.out.println(var02);
     System.out.println(var03);
     System.out.println(var04);
-    System.out.println(var05);
+  //   System.out.println(var05);
   }
 }
